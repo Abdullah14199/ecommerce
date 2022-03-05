@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1081385337508",
+    "project_id": "ostoraapp-a14c9",
+    "storage_bucket": "ostoraapp-a14c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081385337508:android:c199660e3e5eb2ccf2dc31",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081385337508-1vndutlceb0qgsbpt54j129v9sksbhrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqJZEr_A8HFIVJ4Iz-7vt8frKo25IxXJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081385337508-1vndutlceb0qgsbpt54j129v9sksbhrm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
